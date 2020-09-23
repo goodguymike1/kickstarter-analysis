@@ -9,7 +9,7 @@ The analysis of this data is broken down into 2 different categories.
 ## Results
 ### Results based on Outcomes Based on Launch Date
 1. Theater Campaigns launched in the month of May had the highest successful campaigns with only a small apike in failures.  The amount of successful campaigns more than doubled the amoung of failed campaigns (111/52 respectrully).
-[Theater_Outcomes_vs_Launch](hhttps://github.com/goodguymike1/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+[Theater_Outcomes_vs_Launch](https://github.com/goodguymike1/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 2. Theater Campaigns launched in the month of December had thelowest amount of successful campaigns, whaile also having an uptick in failed campaigns.  This resulting in the success/failure rate to be about even (37/35 respectfully).
 [Outcomes_vs_Goals](https://github.com/goodguymike1/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 ### Outcomes based on Goals
